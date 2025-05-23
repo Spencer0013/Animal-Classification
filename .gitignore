@@ -1,0 +1,4 @@
+.h5
+venv/
+model_checkpoints/
+model.keras

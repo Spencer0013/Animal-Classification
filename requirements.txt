@@ -1,0 +1,9 @@
+ipykernel
+pandas
+matplotlib
+numpy
+tensorflow
+tensorflow-hub
+tf_keras
+streamlit
+pillow
